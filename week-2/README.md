@@ -1,8 +1,4 @@
 # Week 2: AWS Compute & Networking
-
-> **Author:** Dilip Kumar — Cloud & DevOps Engineering Internship  
-> **Theme:** Build cloud infrastructure by hand first. Understanding what each click does is the prerequisite to automating it sensibly in Week 3.
-
 ---
 
 ## 📚 Table of Contents
@@ -376,19 +372,3 @@ Successfully hosted a static website on S3 and performed EBS volume creation, fo
 
 ---
 
-## ✅ Deliverables
-
-| # | Deliverable | Status |
-|---|-------------|--------|
-| 1 | EC2 instance running Nginx with Elastic IP (`44.198.48.159`) accessible via browser | ✅ Done |
-| 2 | Custom VPC (`10.0.0.0/16`) with public + private subnets configured | ✅ Done |
-| 3 | Internet Gateway and NAT Gateway with correct route tables | ✅ Done |
-| 4 | Private EC2 internet egress verified via NAT Gateway | ✅ Done |
-| 5 | S3 static website (`dilip-static-website-2026`) publicly accessible | ✅ Done |
-| 6 | EBS volume (100 GB gp3) attached, formatted, mounted | ✅ Done |
-| 7 | EBS Snapshot (`Week2-Task2.3-Snapshot`) created and restored | ✅ Done |
-| 8 | Architecture diagram created in draw.io and exported | ✅ Done |
-
----
-
-*Week 2 Complete — Hands-on AWS infrastructure: compute, networking, and storage. 🚀*
