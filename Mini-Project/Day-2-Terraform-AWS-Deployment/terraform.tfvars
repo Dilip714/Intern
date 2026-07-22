@@ -1,0 +1,6 @@
+region          = "ap-south-1"
+ami             = "ami-0b910d1016287a5e7"
+instance_type   = "t3.micro"
+key_name        = "mini"
+subnet_id       = "subnet-07c5499cba69aa528"
+security_group  = "sg-0221dbea5fc3676c8"
